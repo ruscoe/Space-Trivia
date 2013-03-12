@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/View"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/ViewHeader"
+        android:id="@+id/viewHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/question" />
+    
+    	<ScrollView
+    	    android:id="@+id/questionScrollView"
+    	    style="@style/ScrollView"
+    		android:layout_width="fill_parent"
+    		android:layout_height="fill_parent"
+    		android:orientation="vertical"
+    		>
+    		
+        	<LinearLayout
+    			android:layout_width="fill_parent"
+    			android:layout_height="wrap_content"
+			    android:orientation="vertical" >
+        		
+    			<TextView
+        			style="@style/QuestionText"
+			        android:id="@+id/questionText"
+        			android:layout_width="fill_parent"
+        			android:layout_height="wrap_content" />
+    				
+    				<LinearLayout
+        				style="@style/ButtonFrame"
+        				android:id="@+id/answersFrame"
+    					android:layout_width="fill_parent"
+				    	android:layout_height="wrap_content"
+    					android:padding="5dp"
+				    	android:orientation="vertical" />
+    				
+    						<Button
+        						style="@style/NextButton"
+        						android:id="@+id/nextQuestionButton"
+        						android:layout_width="wrap_content"
+        						android:layout_height="wrap_content"
+        						android:layout_gravity="right"
+        						android:text="@string/next_question"
+        						android:visibility="gone"
+        						android:onClick="nextQuestionButtonClickHandler"/>
+    							
+    						<Button
+        						style="@style/CompleteButton"
+        						android:id="@+id/completeButton"
+        						android:layout_width="wrap_content"
+        						android:layout_height="wrap_content"
+        						android:layout_gravity="right"
+        						android:text="@string/complete_round"
+        						android:visibility="gone"
+        						android:onClick="completeButtonClickHandler"/>
+							
+    						<TextView
+						        style="@style/QuestionText"
+        						android:id="@+id/questionDescriptionText"
+        						android:layout_width="fill_parent"
+        						android:layout_height="wrap_content"
+        						android:visibility="gone" />
+    						
+    				</LinearLayout>
+    				
+				</ScrollView>
+    
+</LinearLayout>

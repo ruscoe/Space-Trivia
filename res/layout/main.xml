@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/View"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+	<ImageView
+	    style="@style/AppLogo"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        android:contentDescription="@string/content_desc_logo"/>
+		
+	    <LinearLayout
+        style="@style/ButtonFrame"
+    	android:orientation="vertical" >
+			<Button
+			    style="@style/StandardButton"
+     			android:id="@+id/categoriesButton"
+     			android:text="@string/new_round_label"
+     			android:onClick="showCategories" />
+			<Button
+			    style="@style/StandardButton"
+     			android:id="@+id/scoresButton"
+     			android:text="@string/high_scores_label"
+     			android:onClick="showScores" />
+			<Button
+			    style="@style/StandardButton"
+     			android:id="@+id/optionsButton"
+     			android:text="@string/options_label"
+     			android:onClick="showOptions" />
+		</LinearLayout>
+
+</LinearLayout>

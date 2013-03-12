@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/View"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/ViewHeader"
+        android:text="@string/round_summary" />
+    
+    <TextView
+        style="@style/QuestionText"
+        android:id="@+id/summaryText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        style="@style/ScoreText"
+        android:id="@+id/scoreText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    
+    <LinearLayout
+        style="@style/ButtonFrame"
+    	android:orientation="vertical" >
+    	
+    	<Button
+        	style="@style/StandardButton"
+        	android:id="@+id/newRoundButton"
+        	android:text="@string/new_round_label"
+        	android:onClick="newRoundButtonClickHandler" />
+    	
+    	<Button
+        	style="@style/StandardButton"
+        	android:id="@+id/shareScoreButton"
+        	android:text="@string/share_score_label"
+        	android:onClick="shareScoreButtonClickHandler" />
+    	
+    	<Button
+        	style="@style/StandardButton"
+        	android:id="@+id/mainMenuButton"
+        	android:text="@string/main_menu_label"
+        	android:onClick="mainMenuButtonClickHandler" />
+    	
+    </LinearLayout>
+    
+</LinearLayout>

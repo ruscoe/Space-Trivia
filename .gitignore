@@ -1,0 +1,4 @@
+/bin
+/gen
+lint.xml
+proguard.cfg
