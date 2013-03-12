@@ -28,8 +28,8 @@ Space Trivia is published on Google Play. This open source version differs in th
 
 The files are located at:
 
-/res/raw/button_click.ogg
-/res/raw/button_click_failure.ogg
-/res/raw/button_click_success.ogg
+* /res/raw/button_click.ogg
+* /res/raw/button_click_failure.ogg
+* /res/raw/button_click_success.ogg
 
 The original sound files are under a license that does not permit redistribution.
