@@ -209,6 +209,7 @@ public class TriviaDAO extends SQLiteOpenHelper
 		{
 			CSVReader reader = new CSVReader(new InputStreamReader(mContext.getResources().openRawResource(resourceId)));
 			records = reader.readAll();
+			reader.close();
 		}
 		catch (IOException e)
 		{
