@@ -63,6 +63,7 @@ Categories and questions are contained in .csv files. To edit the files:
 ```
 
 **Indexes:**
+
 1. The unique ID of the category.
 2. The name of the category.
 
@@ -72,6 +73,7 @@ Categories and questions are contained in .csv files. To edit the files:
 ```
 
 **Indexes**
+
 1. The ID of category the question belongs to. Must match an ID in the categories CSV file.
 2. The unique ID of the question.
 3. The question text.
