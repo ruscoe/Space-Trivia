@@ -101,7 +101,7 @@ public class QuestionActivity extends Activity
 		
 		mTotalQuestions = mQuestionIndexList.size();
 		
-		Log.w(Constants.APP_LOG_NAME, "Total questions: " + mTotalQuestions);
+		Log.i(Constants.APP_LOG_NAME, "Total questions: " + mTotalQuestions);
 		
 		if (mTotalQuestions > 0)
 		{
@@ -163,7 +163,7 @@ public class QuestionActivity extends Activity
 	{
 		int nextQuestionId = mQuestionIndexList.get(mNextQuestionIndex);
 		
-		Log.w(Constants.APP_LOG_NAME, "Got next question ID " + nextQuestionId);
+		Log.i(Constants.APP_LOG_NAME, "Got next question ID " + nextQuestionId);
 		
 		Question question = mQuestions.get(nextQuestionId);
 		

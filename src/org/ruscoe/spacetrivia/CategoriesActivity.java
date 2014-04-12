@@ -83,7 +83,7 @@ public class CategoriesActivity extends ListActivity
 	 */
 	private void startCategory(int id)
 	{
-		Log.d(Constants.APP_LOG_NAME, "Starting category ID " + id);
+		Log.i(Constants.APP_LOG_NAME, "Starting category ID " + id);
 
 		Intent i = new Intent(this, QuestionActivity.class);
 		i.putExtra("categoryId", id);

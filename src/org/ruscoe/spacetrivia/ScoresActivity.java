@@ -57,13 +57,13 @@ public class ScoresActivity extends Activity
 			
 			if (currentScore != null)
 			{
-				Log.d(Constants.APP_LOG_NAME, "Found score for category ID " + currentCategory.getCategoryId());
+				Log.i(Constants.APP_LOG_NAME, "Found score for category ID " + currentCategory.getCategoryId());
 				
 				currentScore.setCategoryName(currentCategory.getName());
 			}
 			else
 			{
-				Log.d(Constants.APP_LOG_NAME, "No score found for category ID " + currentCategory.getCategoryId());
+				Log.i(Constants.APP_LOG_NAME, "No score found for category ID " + currentCategory.getCategoryId());
 				
 				currentScore = new Score();
 				currentScore.setCategoryId(currentCategory.getCategoryId());
