@@ -22,12 +22,10 @@ Trivia categories and questions can be found in CSV files within the /res/raw di
 
 * Download [OpenCSV 2.3](http://sourceforge.net/projects/opencsv/files/opencsv/2.3/)
 * Extract the archive and locate the file named **opencsv-2.3.jar**, in the 'deploy' directory.
-* Copy **opencsv-2.3.jar** to wherever you'd like your libraries to exist on your system.
-* Open the Space Trivia project in Eclipse and select **Project** then **Properties** from the main menu.
-* Select **Java Build Path** from the list on the left of the properties window.
-* Select the **Libraries** tab and click the **Add External JARs...** button.
-* Locate **opencsv-2.3.jar**, select the file and click **Open**
-* Click the **OK** button to exit the properties window.
+* Open the Space Trivia project in Eclipse.
+* Create a new folder named **libs** in the root of the Space Trivia project.
+* Copy **opencsv-2.3.jar** into the newly created **libs** folder.
+* From the main menu, select **Project** then **Clean...** and clean the project.
 
 ## License
 
