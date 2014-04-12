@@ -1,39 +1,39 @@
-3,1,Which planet is the largest in the Solar System?,"With a circumference of 449,200 kilometers, gas giant Jupiter is the largest planet in the Solar System.",Jupiter,Neptune,Mars
-3,1,In what year was the planet Pluto discovered?,"Pluto was discovered on February 18, 1930 by American astronomer Clyde William Tombaugh.",1930,1900,1890
-3,1,What are the rings around Saturn composed of?,Saturn's rings consist of chunks of water ice.,Ice,Dust,Small rocks
-3,1,Why does Mars appear red in color?,The Martian surface is red due to the oxidation of iron in the soil.,Oxidized iron in the soil,Atmospheric light distortion,Dust in the atmosphere
-3,1,Which planet rotates on its side?,Uranus is the only planet in the Solar System which rotates on its side.,Uranus,Jupiter,Saturn
-3,1,How many distinct groups of rings does Saturn have?,"Seven distinct groups of rings can be observed around Saturn, a planet with thousands of thin rings.",7,5,3
-3,1,Which of these planets is located beyond the asteroid belt?,"Neptune is one of four planets beyond the asteroid belt, a group known as the outer planets.",Neptune,Mars,Mercury
-3,1,What type of body is the Sun?,The Sun is the star at the center of the Solar System.,A star,A planet,A gas giant
-3,1,Why do some planets sustain significantly more meteor impacts than others?,"These planets have a thin atmosphere, which is unable to burn up meteors before impact.",Thin atmosphere,Slow orbit around the sun,Isolation from other planets
-3,1,Which planet was once believed be two planets?,"The ancient Greeks believed Mercury was two planets, one visible in the morning and one at night.",Mercury,Mars,Jupiter
-3,1,Which planet is closest to the Sun?,"Mercury is the closest planet to the Sun at a distance of 57,910,000 kilometers.",Mercury,Earth,Mars
-3,1,Which one of these planets does not have rings?,"Mars does not have rings, while Saturn and Neptune both do.",Mars,Saturn,Neptune
-3,1,What force holds the planets in orbit around the Sun?,The Sun's gravity keeps the planets of the Solar System in orbit.,Gravity,Magnetism,Kinetic energy
-3,1,What distinctive property does Pluto not share with the other outer planets?,"Pluto consists of rock, while the other outer planets consist of gas or ice.",It consists of rock,It rotates on its side,It has rings
-3,1,What planet is the hottest in the Solar System?,"While Mercury orbits closer to the Sun, its lack of an atmosphere keeps it cooler than the second closest planet, Venus.",Venus,Mercury,Neptune
-3,1,How many planets are gas giants?,"Jupiter, Saturn, Uranus and Neptune are the Solar System's gas giants. Uranus and Neptune are also considered to be ice giants.",4,1,6
-3,1,Which of these is a member of the inner planets?,"Venus is a member of the inner planets, which orbit the Sun closer than the asteroid belt that separates the outer planets.",Venus,Neptune,Uranus
-3,1,Which of these planets is a gas giant?,Jupiter is one of the Solar System's four gas giants.,Jupiter,Venus,Mars
-3,1,On which planet is the largest volcano in the Solar System?,"Olympus Mons, located on Mars, is the largest known volcano in the Solar System.",Mars,Venus,Earth
-3,1,How many Earth years does Mars take to orbit the Sun?,Mars takes around two Earth years to orbit the Sun.,2,4,6
-3,1,What causes the white appearance of the surface at Mars’ poles?,"Similar to Earth, Mars has polar ice caps.",Ice,Natural rock color,Evaporating water
-3,1,How many moons does Mars have?,"Believed to be captured asteroids, Phobos and Deimos are the two moons of Mars.",2,1,4
-3,1,Which of these is a moon of Mars?,Phobos is one of the two moons of Mars. The second moon is Deimos.,Phobos,Titan,Mimas
-3,1,The asteroid belt separating the inner and outer planets exists between which two planets?,"The asteroid belt exists between Mars and Jupiter, making Jupiter the first of the outer planets.",Mars and Jupiter,Jupiter and Saturn,Neptune and Pluto
-3,1,What is the average distance between the Sun and Mars?,Mars orbits between a minimum of 207 million kilometers and a maximum of 249 million kilometers from the Sun.,228 million kilometers,158 million kilometers,320 million kilometers
-3,1,Which gas makes up the majority of the the atmosphere on Mars?,"Over 95% of the atmosphere on Mars is composed of Carbon Dioxide. Other gases include Nitrogen, Argon and less than 1% Oxygen.",Carbon Dioxide,Nitrogen,Oxygen
-3,1,How many Earth days does it take for Mercury to orbit the Sun?,Mercury orbits the Sun in approximately 88 Earth days.,88,100,64
-3,1,How many Earth days does it take for Mercury to complete one rotation?,Mercury rotates on its axis approximately once every 59 Earth days.,59,34,62
-3,1,Which planet is commonly referred to as Earth’s twin sister?,"Venus is commonly referred to as Earth's twin sister, due to its similar size and proximity.",Venus,Mars,Jupiter
-3,1,How many Earth days does it take for Venus to complete one rotation?,"Venus rotates on its axis approximately once every 243 Earth days. Because Venus takes 224 Earth days to orbit the sun, the planet's year is longer than its day.",243,153,342
-3,1,Which is the brightest planet when viewed from Earth?,Venus is the brightest planet when viewed from Earth due to its proximity and highly reflective clouds of sulfuric acid.,Venus,Jupiter,Mars
-3,1,Which is the fastest rotating planet in the Solar System?,"Jupiter rotates at 28,273 miles per hour at its equator. As a gas planet, Jupiter's polar regions rotate at a slightly slower speed.",Jupiter,Neptune,Uranus
-3,1,The “Great Red Spot” on Jupiter has been identified as what?,"The Great Red Spot is a persistent storm large enough to contain a planet the size of Earth. Oval in shape, the storm varies between 24,000 and 40,000 kilometers at its widest.",A storm,A rock formation,A photography artifact
-3,1,Which planet has the largest moon in the Solar System?,"Ganymede, a moon of Jupiter, is the largest moon in the Solar System.",Jupiter,Mars,Neptune
-3,1,Which of Saturn’s moons is larger than the planet Mercury?,Saturn's moon Titan is larger than the planet Mercury and the second largest moon in the Solar System.,Titan,Tethys,Dione
-3,1,What causes Neptune to appear blue in color?,"While Neptune's atmosphere is mostly composed of hydrogen, the 1.5% methane component gives the planet its blue color.",Methane gas in the atmosphere,Natural rock color,Water
-3,1,How many moons does Neptune have?,"Neptune has thirteen moons. Until early 2003, only Eight of those moons had been discovered.",13,8,2
-3,1,Which of these planets is an Ice Giant?,Uranus and Neptune are the the Solar System's ice giants.,Uranus,Jupiter,Saturn
-3,1,"After being demoted from planet status, what name was given to Pluto?","On August 24th, 2006, the International Astronomical Union redefined the criteria for a planet, causing Pluto to be designated as Asteroid #134340.",Asteroid #134340,Formally Pluto,Astronomical Body #250
+3,1,"Which planet is the largest in the Solar System?","With a circumference of 449,200 kilometers, gas giant Jupiter is the largest planet in the Solar System.","Jupiter","Neptune","Mars"
+3,1,"In what year was the planet Pluto discovered?","Pluto was discovered on February 18, 1930 by American astronomer Clyde William Tombaugh.",1930,1900,1890
+3,1,"What are the rings around Saturn composed of?","Saturn's rings consist of chunks of water ice.","Ice","Dust","Small rocks"
+3,1,"Why does Mars appear red in color?","The Martian surface is red due to the oxidation of iron in the soil.","Oxidized iron in the soil","Atmospheric light distortion","Dust in the atmosphere"
+3,1,"Which planet rotates on its side?","Uranus is the only planet in the Solar System which rotates on its side.","Uranus","Jupiter","Saturn"
+3,1,"How many distinct groups of rings does Saturn have?","Seven distinct groups of rings can be observed around Saturn, a planet with thousands of thin rings.",7,5,3
+3,1,"Which of these planets is located beyond the asteroid belt?","Neptune is one of four planets beyond the asteroid belt, a group known as the outer planets.",Neptune,Mars,Mercury
+3,1,"What type of body is the Sun?","The Sun is the star at the center of the Solar System.","A star","A planet","A gas giant"
+3,1,"Why do some planets sustain significantly more meteor impacts than others?","These planets have a thin atmosphere, which is unable to burn up meteors before impact.","Thin atmosphere","Slow orbit around the sun","Isolation from other planets"
+3,1,"Which planet was once believed be two planets?","The ancient Greeks believed Mercury was two planets, one visible in the morning and one at night.","Mercury","Mars","Jupiter"
+3,1,"Which planet is closest to the Sun?","Mercury is the closest planet to the Sun at a distance of 57,910,000 kilometers.","Mercury","Earth","Mars"
+3,1,"Which one of these planets does not have rings?","Mars does not have rings, while Saturn and Neptune both do.","Mars","Saturn","Neptune"
+3,1,"What force holds the planets in orbit around the Sun?",The Sun's gravity keeps the planets of the Solar System in orbit.","Gravity","Magnetism","Kinetic energy"
+3,1,"What distinctive property does Pluto not share with the other outer planets?","Pluto consists of rock, while the other outer planets consist of gas or ice.","It consists of rock","It rotates on its side","It has rings"
+3,1,"What planet is the hottest in the Solar System?","While Mercury orbits closer to the Sun, its lack of an atmosphere keeps it cooler than the second closest planet, Venus.","Venus","Mercury","Neptune"
+3,1,"How many planets are gas giants?","Jupiter, Saturn, Uranus and Neptune are the Solar System's gas giants. Uranus and Neptune are also considered to be ice giants.",4,1,6
+3,1,"Which of these is a member of the inner planets?","Venus is a member of the inner planets, which orbit the Sun closer than the asteroid belt that separates the outer planets.","Venus","Neptune","Uranus"
+3,1,"Which of these planets is a gas giant?",Jupiter is one of the Solar System's four gas giants.","Jupiter","Venus","Mars"
+3,1,"On which planet is the largest volcano in the Solar System?","Olympus Mons, located on Mars, is the largest known volcano in the Solar System.","Mars","Venus","Earth"
+3,1,"How many Earth years does Mars take to orbit the Sun?",Mars takes around two Earth years to orbit the Sun.",2,4,6
+3,1,"What causes the white appearance of the surface at Mars' poles?","Similar to Earth, Mars has polar ice caps.","Ice","Natural rock color","Evaporating water"
+3,1,"How many moons does Mars have?","Believed to be captured asteroids, Phobos and Deimos are the two moons of Mars.",2,1,4
+3,1,"Which of these is a moon of Mars?","Phobos is one of the two moons of Mars. The second moon is Deimos.","Phobos","Titan","Mimas"
+3,1,"The asteroid belt separating the inner and outer planets exists between which two planets?","The asteroid belt exists between Mars and Jupiter, making Jupiter the first of the outer planets.","Mars and Jupiter","Jupiter and Saturn","Neptune and Pluto"
+3,1,"What is the average distance between the Sun and Mars?"",Mars orbits between a minimum of 207 million kilometers and a maximum of 249 million kilometers from the Sun.","228 million kilometers","158 million kilometers","320 million kilometers"
+3,1,"Which gas makes up the majority of the the atmosphere on Mars?","Over 95% of the atmosphere on Mars is composed of Carbon Dioxide. Other gases include Nitrogen, Argon and less than 1% Oxygen.","Carbon Dioxide","Nitrogen","Oxygen"
+3,1,"How many Earth days does it take for Mercury to orbit the Sun?",Mercury orbits the Sun in approximately 88 Earth days.",88,100,64
+3,1,"How many Earth days does it take for Mercury to complete one rotation?","Mercury rotates on its axis approximately once every 59 Earth days.",59,34,62
+3,1,"Which planet is commonly referred to as Earth's twin sister?","Venus is commonly referred to as Earth's twin sister, due to its similar size and proximity.","Venus","Mars","Jupiter"
+3,1,"How many Earth days does it take for Venus to complete one rotation?","Venus rotates on its axis approximately once every 243 Earth days. Because Venus takes 224 Earth days to orbit the sun, the planet's day is longer than its year.",243,153,342
+3,1,"Which is the brightest planet when viewed from Earth?","Venus is the brightest planet when viewed from Earth due to its proximity and highly reflective clouds of sulfuric acid.","Venus","Jupiter","Mars"
+3,1,"Which is the fastest rotating planet in the Solar System?","Jupiter rotates at 28,273 miles per hour at its equator. As a gas planet, Jupiter's polar regions rotate at a slightly slower speed.","Jupiter","Neptune","Uranus"
+3,1,"The 'Great Red Spot' on Jupiter has been identified as what?","The Great Red Spot is a persistent storm large enough to contain a planet the size of Earth. Oval in shape, the storm varies between 24,000 and 40,000 kilometers at its widest.","A storm","A rock formation","A photography artifact"
+3,1,"Which planet has the largest moon in the Solar System?","Ganymede, a moon of Jupiter, is the largest moon in the Solar System.","Jupiter","Mars","Neptune"
+3,1,"Which of Saturn's moons is larger than the planet Mercury?","Saturn's moon Titan is larger than the planet Mercury and the second largest moon in the Solar System.","Titan","Tethys","Dione"
+3,1,"What causes Neptune to appear blue in color?","While Neptune's atmosphere is mostly composed of hydrogen, the 1.5% methane component gives the planet its blue color.","Methane gas in the atmosphere","Natural rock color","Water"
+3,1,"How many moons does Neptune have?","Neptune has thirteen moons. Until early 2003, only Eight of those moons had been discovered.",13,8,2
+3,1,"Which of these planets is an Ice Giant?","Uranus and Neptune are the the Solar System's ice giants.","Uranus","Jupiter","Saturn"
+3,1,"After being demoted from planet status, what name was given to Pluto?","On August 24th, 2006, the International Astronomical Union redefined the criteria for a planet, causing Pluto to be designated as Asteroid #134340.","Asteroid #134340","Formally Pluto","Astronomical Body #250"
