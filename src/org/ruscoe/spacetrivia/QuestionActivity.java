@@ -243,7 +243,7 @@ public class QuestionActivity extends Activity
 	
 	/**
 	 * Click handler for answer option buttons.
-	 * Determins the result of the user selecting an answer.
+	 * Determines the result of the user selecting an answer.
 	 * 
 	 * @param View v - The current view.
 	 */
