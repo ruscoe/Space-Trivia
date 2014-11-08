@@ -92,7 +92,7 @@ public class SummaryActivity extends Activity
     }
     
     /**
-     * Updates the user's score for this trivia category in the database.
+     * Updates the user's high score for this trivia category.
      */
     private void updateScore()
     {
@@ -102,14 +102,23 @@ public class SummaryActivity extends Activity
     	
     	if (score == null)
     	{
+    		// Create a new score for this category.
     		score = new Score();
     		score.setCategoryId(mCategoryId);
+    		score.setQuestionsAnswered(mQuestionsAnswered);
+        	score.setCorrectAnswers(mCorrectAnswers);
+    		
+    		mScoreData.saveScore(score);
     	}
-    	
-    	score.setQuestionsAnswered(mQuestionsAnswered);
-    	score.setCorrectAnswers(mCorrectAnswers);
-    	
-    	mScoreData.saveScore(score);
+    	else if (mCorrectAnswers > score.getCorrectAnswers())
+    	{
+    		// Update score if number of correct answers
+    		// is greater than existing score.
+    		score.setQuestionsAnswered(mQuestionsAnswered);
+        	score.setCorrectAnswers(mCorrectAnswers);
+    		
+    		mScoreData.saveScore(score);
+    	}
     }
     
     /**
