@@ -86,14 +86,6 @@ Categories and questions are contained in .csv files. To edit the files:
 
 Released under the [MIT License](http://www.opensource.org/licenses/mit-license.php).
 
-## Differences to Published App
+## Sounds
 
-Space Trivia is [published on Google Play](https://play.google.com/store/apps/details?id=org.ruscoe.spacetrivia). This open source version differs in that the sound files have been replaced by empty sound files.
-
-The files are located at:
-
-* /res/raw/button_click.ogg
-* /res/raw/button_click_failure.ogg
-* /res/raw/button_click_success.ogg
-
-The original sound files are under a license that does not permit redistribution.
+UI sounds courtesy of [GUI Sound Effects](http://opengameart.org/content/gui-sound-effects).
